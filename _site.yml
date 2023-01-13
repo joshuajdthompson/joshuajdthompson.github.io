@@ -1,0 +1,23 @@
+name: "joshuajdthompson"
+output_dir: "docs"
+navbar:
+  title: "Navigation"
+  left:
+  - text: "Home"
+    href: index.html
+    icon: fa-home
+  - text: "About"
+    href: index.html
+    icon: fa-address-card
+  - text: "Data"
+    href: index.html
+    icon: fa-database
+  - text: "Tools"
+    href: index.html
+    icon: fa-toolbox
+  - text: "Code"
+    href: index.html
+    icon: fa-code
+output:
+  html_document: 
+    theme: flatly

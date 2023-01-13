@@ -1,0 +1,9 @@
+---
+  title: ""
+---
+  
+<center>  
+## Hi there! My name is Josh Thompson.  Feel free to navigate this site for examples of my projects, data, and programming resources.  
+<br>
+<img src="files/me.jpg" style="width:35%" class="center">
+</center>
