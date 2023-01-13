@@ -1,8 +1,7 @@
 name: "joshuajdthompson"
-title: Joshua J. D. Thompson
 output_dir: "docs"
 navbar:
-  title: "Navigation"
+  title: "Joshua J. D. Thompson"
   left:
   - text: "Home"
     href: index.html
@@ -13,8 +12,8 @@ navbar:
   - text: "Data"
     href: index.html
     icon: fa-database
-  - text: "Tools"
-    href: index.html
+  - text: "Tools and Apps"
+    href: tools.html
     icon: fa-toolbox
   - text: "Code"
     href: index.html
